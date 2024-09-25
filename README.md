@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moataz Younes</h1>
+<h1 align="center">Hi 👋, There</h1>
 <h3 align="center">I’m Moataz Younes, a passionate Cybercrime Investigator, OSINT Specialist,focus on digital evidence analysis, cybersecurity, and Python development. I simplify complex technical information and translate it into actionable insights, helping combat cybercrime on multiple fronts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackbird889&label=Profile%20views&color=0e75b6&style=flat" alt="blackbird889" /> </p>
@@ -26,3 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackbird889&show_icons=true&locale=en&layout=compact" alt="blackbird889" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackbird889&show_icons=true&locale=en" alt="blackbird889" /></p>
+https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white   https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white 
+	https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white         https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00
+ https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white  https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white
+ https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+ https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white       https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white
